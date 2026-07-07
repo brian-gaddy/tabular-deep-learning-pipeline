@@ -7,3 +7,4 @@ seaborn
 joblib
 pyyaml
 imbalanced-learn
+pytest
